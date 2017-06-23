@@ -4,7 +4,7 @@
 
 然后远程创建，再把远程的pull下来
 
-然后本地commit ver1.0
+然后本地commit ver1.0 并建立连接git remote add origin SSH地址
 
 然后远程push -u origin master
 
